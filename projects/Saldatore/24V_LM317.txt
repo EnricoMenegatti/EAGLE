@@ -1,0 +1,17 @@
+Partlist
+
+Exported from 24V_LM7824.sch at 04/10/2019 12:13
+
+EAGLE Version 9.5.1 Copyright (c) 1988-2019 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library            Sheet
+
+24V                     SMKDSP_1,5/2    SMKDSP_1,5/2 con-phoenix-smkdsp 1
+32V                     SMKDSP_1,5/2    SMKDSP_1,5/2 con-phoenix-smkdsp 1
+7824TV   7824TV         7824TV          TO220V       linear             1
+C1       0.33uF         C-EU025-025X050 C025-025X050 rcl                1
+C2       10uF           C-EU025-025X050 C025-025X050 rcl                1
+R1       1-2W           R-EU_0309/10    0309/10      rcl                1
+TIP2955  TIP2955        TIP2955         TOP3AV       transistor-power   1
